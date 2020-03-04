@@ -17,7 +17,7 @@ Submitted by: **Kevin Orellana**
 
 Here's a walkthrough of implemented user stories:
 
-<img src = 'https://share.getcloudapp.com/WnuNlXL6' title = 'Video Walktrhough' width = '' alt='Video Walkthrough' />
+<img src = 'https://gph.is/g/Z5YyKQG.gif' title = 'Video Walktrhough' width = '' alt='Video Walkthrough' />
 
 
 
