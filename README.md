@@ -17,7 +17,10 @@ Submitted by: **Kevin Orellana**
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/J8RKmqjhP4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+**Part One**
+<img src='https://recordit.co/tTDHbG2kMa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+**Part Two**
 <img src='http://recordit.co/BGl49hFuFh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
